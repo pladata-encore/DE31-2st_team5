@@ -118,4 +118,4 @@ To run this project, follow these steps:
 - 정제 과정에서 제대로 처리되지 않았거나 의미가 훼손된 문자열들이 토큰으로 적용되어 클러스터링 및 LDA에 영향으로 주는 문제가 있다고 봄
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
