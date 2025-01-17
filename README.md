@@ -95,7 +95,7 @@ To run this project, follow these steps:
 #### 4. 계층적 군집화(Hierarchical Agglomerative Clustering)
 ![auto](attachments/hca.png)
 
-- IT-IDF 벡터를 코사인 유사도를 기준으로 계층적 군집화 진행(클러스터링 기준은 각 문서간의 거리에 의해 정해짐)
+- TF-IDF 벡터를 코사인 유사도를 기준으로 계층적 군집화 진행(클러스터링 기준은 각 문서간의 거리에 의해 정해짐)
 - 전체 6만건의 기사 중 1만건의 기사를 랜덤 추출하여 클러스터링 진행
 
 1. **LDA Topic Modeling:** 
